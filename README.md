@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Martí Deportes
-- 🌱 I’m currently learning Front end tech's ** Angular ** ** VueJs** **MongoDB**
+- 🔭 I’m currently working on Martí Deportes
+- 🌱 I’m currently learning Front end tech's **Angular** **VueJs** **MongoDB**
 
 [![Brcordova's GitHub stats](https://github-readme-stats.vercel.app/api?username=brcordova)](https://github.com/anuraghazra/github-readme-stats)
 
