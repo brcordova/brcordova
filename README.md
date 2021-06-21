@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Front end tech's **Angular** **VueJs** **MongoDB**
 
 [![Brcordova's GitHub stats](https://github-readme-stats.vercel.app/api?username=brcordova)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brcordova&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">GITHUB STATS<hr/></h3>
 <p align="center">
 <a href="https://github.com/brcordova">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brcordova&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -47,4 +48,4 @@ Mi blog: https://krisscaroli.github.io/MiBlog/
 <code><img src="https://www.vectorlogo.zone/logos/laravel/angular-icon.svg" alt="Laravel" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/mongodb-icon.svg" alt="firebase" width="22" height="22"/></code>
 
-<h3 align="center">GITHUB STATS<hr/></h3>
+
