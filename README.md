@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 
 [![Brcordova's GitHub stats](https://github-readme-stats.vercel.app/api?username=brcordova)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+<a href="https://github.com/krisscaroli">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krisscaroli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krisscaroli&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
