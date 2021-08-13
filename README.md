@@ -16,9 +16,9 @@ My followers
 </a>
 </p>
 
-Mi blog: https://krisscaroli.github.io/MiBlog/
+Mi blog: De momento esta en mantenimiento
 <p>
-  📣 Connect With Me :<br/>
+  📣 Contactame :<br/>
    <br>
 <a href="mailto:ricardo.ostos@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Hello Ricardo Ostos%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.instagram.com/ricardo.ostos/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
